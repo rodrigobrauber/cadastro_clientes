@@ -15,3 +15,5 @@ CRUD de Clientes, desenvolvido em PHP 8.1 sem o uso de frameworks com persistên
  ## 🚀 Rodando o Projeto
 
 Para rodar o projeto, basta clonar o repositório em questão, criar um banco de dados preferencialmente chamado "cadastro_clientes", e importar o arquivo bd_clientes.sql que encontra-se na raiz do projeto. Na pasta controller, acessar o arquivo Dao ajustar as variáveis host, banco de dados, usuario e senha conforme suas configurações.
+
+![image](https://user-images.githubusercontent.com/108037314/201682470-9102f61e-3d94-4077-843a-e012246d1694.png)
